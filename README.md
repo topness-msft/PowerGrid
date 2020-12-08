@@ -24,9 +24,9 @@ PowerGrid has these **Output** properties:
 | Layout | Record | The column and control layout values |
 
 **Example PowerGrid.Layout properties:**
-PowerGrid.Layout.Column1.Left: the leftmost edge of column 1
-PowerGrid.Layout.Column3.Right: pixel position of the rightmost edge of column 3
-PowerGrid.Top: the pixel position of the grid top (actual column location factoring in gutter)
-PowerGrid.Height: the pixel height of the columns
+PowerGrid.Layout.Column1.Left: the leftmost edge of column 1  
+PowerGrid.Layout.Column3.Right: pixel position of the rightmost edge of column 3  
+PowerGrid.Top: the pixel position of the grid top (actual column location factoring in gutter)  
+PowerGrid.Height: the pixel height of the columns  
 
 
